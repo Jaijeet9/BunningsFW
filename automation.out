@@ -1,0 +1,17 @@
+2021-06-30 14:06:567 INFO  LoggerHelper:46 - verify bunnings home page is displayed
+2021-06-30 14:06:575 INFO  LoggerHelper:30 - entering searchtext in the product search bar
+2021-06-30 14:06:389 INFO  LoggerHelper:33 - search success
+2021-06-30 14:06:731 INFO  LoggerHelper:40 - error message for no products found
+2021-06-30 14:06:407 INFO  LoggerHelper:46 - verify bunnings home page is displayed
+2021-06-30 14:06:409 INFO  LoggerHelper:30 - entering searchtext in the product search bar
+2021-06-30 14:06:198 INFO  LoggerHelper:33 - search success
+2021-06-30 14:06:141 INFO  LoggerHelper:53 - products[]
+2021-06-30 14:06:142 INFO  LoggerHelper:58 - products displayed wrt search Hammer
+2021-06-30 14:06:243 INFO  LoggerHelper:46 - verify bunnings home page is displayed
+2021-06-30 14:06:245 INFO  LoggerHelper:30 - entering searchtext in the product search bar
+2021-06-30 14:06:981 INFO  LoggerHelper:33 - search success
+2021-06-30 14:06:803 INFO  LoggerHelper:53 - products[]
+2021-06-30 14:06:804 INFO  LoggerHelper:58 - products displayed wrt search Hammer
+2021-06-30 14:06:124 INFO  LoggerHelper:35 - Add to Cart Product detailsCraftright 8oz/ 226g Steel Claw Hammer,$4.95,.95
+2021-06-30 14:06:638 INFO  LoggerHelper:44 - Review Cart Product detailsCraftright 8oz/ 226g Steel Claw Hammer,$4.95,.95
+2021-06-30 14:06:639 INFO  LoggerHelper:49 - verified product data :Success
