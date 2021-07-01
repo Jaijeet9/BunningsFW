@@ -7,10 +7,10 @@ Feature: Validate the Add to cart functionality
     Then Verify error message is displayed successfully with "<searchtext>"
 
     Examples: 
-      | searchtext |
-      | Junk       |
+      | searchtext   |
+      | selenium     |
 
-  @SanityTest @PositiveScenarios
+  @SanityTest @PositiveScenario
   Scenario Outline: Verify images will be displayed wrt to valid search text
     Given User landed on bunnings.com
     When User enters "<searchtext>"
