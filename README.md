@@ -12,6 +12,6 @@ Included support for mozilla,chrome,edge and ie browser
 
 
 To Run with maven
-Go to commandline : Go to framework directory : mvn test (It will run all the testcases from the testrunner)
+Go to commandline : Go to framework directory : mvn test (It will run all the testcases from the testrunner). Alternative, right click option in the feature file can be used to the run the tests.
 
 Alternatively ,Run the testrunner and find the output and reports in the test output folder
